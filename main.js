@@ -1,3 +1,6 @@
+git add .
+    git commit -m "move files to root"
+git push
 const createInputElem = document.querySelector("#todo-form input");
 const createBtnElem = document.querySelector("#todo-form button");
 const todoListElem = document.querySelector("#todo-list");
